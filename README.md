@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently working on ML/DL projects.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me https://www.linkedin.com/in/sourya-mukherjee-aa64871aa/
+- 📫 How to reach me https://in.linkedin.com/
 
 <!---
 sourya-m/sourya-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
